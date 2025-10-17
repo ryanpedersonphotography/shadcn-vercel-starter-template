@@ -1,9 +1,13 @@
-<a href="https://shadcn-ui-registry-starter-o9obet71b-ryan-pedersons-projects.vercel.app/">
-  <h1 align="center">Registry Starter + Payload CMS</h1>
-</a>
+<h1 align="center">🚀 shadcn/ui Registry + Payload CMS Template</h1>
 
 <p align="center">
-    Registry Starter is a free, open-source template built with Next.js, Shadcn/ui Registry, and Payload CMS v3 to accelerate your AI-Native Design System with content management.
+    <strong>Production-ready starter template</strong> built with Next.js, shadcn/ui Registry, and Payload CMS v3.<br/>
+    Complete with custom admin interface, automated deployment, and comprehensive documentation.
+</p>
+
+<p align="center">
+    <a href="https://shadcn-ui-registry-starter-o9obet71b-ryan-pedersons-projects.vercel.app/"><strong>🌐 Live Demo</strong></a> ·
+    <a href="https://shadcn-ui-registry-starter-o9obet71b-ryan-pedersons-projects.vercel.app/admin"><strong>🔧 Admin Interface</strong></a>
 </p>
 
 <p align="center">
@@ -15,6 +19,28 @@
   <a href="https://ui.shadcn.com/docs/registry"><strong>📚 Read Docs</strong></a>
 </p>
 <br/>
+
+## 🚀 Use This Template
+
+**Quick Start (One Command):**
+```bash
+git clone https://github.com/ryanpedersonphotography/shadcn-registry-cms-template.git my-project
+cd my-project
+./scripts/deploy-setup.sh
+```
+
+**Manual Setup:**
+```bash
+git clone https://github.com/ryanpedersonphotography/shadcn-registry-cms-template.git my-project
+cd my-project
+./scripts/generate-env.sh  # Generate secure environment variables
+# Update .env.local with your database URL
+pnpm install && pnpm dev
+```
+
+📖 **[Complete Setup Guide](./COMPLETE_SETUP_GUIDE.md)** - Step-by-step instructions for all external services
+
+---
 
 ## ✨ Features
 
