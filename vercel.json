@@ -1,0 +1,16 @@
+{
+  "functions": {
+    "src/app/api/revalidate/route.ts": {
+      "maxDuration": 10
+    },
+    "src/app/admin/api/**": {
+      "maxDuration": 30
+    }
+  },
+  "build": {
+    "env": {
+      "DATABASE_URI": "postgresql://placeholder-for-build",
+      "PAYLOAD_SECRET": "build-time-placeholder-secret-32-chars"
+    }
+  }
+}
