@@ -1,4 +1,4 @@
-<a href="https://shadcn-ui-registry-starter-o9obet71b-ryan-pedersons-projects.vercel.app/">
+<a href="https://rum-river-wedding-barn-shadcn-o9obet71b-ryan-pedersons-projects.vercel.app/">
   <h1 align="center">Registry Starter + Payload CMS</h1>
 </a>
 
@@ -36,7 +36,7 @@ Access the powerful admin interface to manage your content:
 - **📁 Media**: `/admin/media` - File management
 
 ### Live Demo
-👉 **[View Admin Interface](https://shadcn-ui-registry-starter-o9obet71b-ryan-pedersons-projects.vercel.app/admin)**
+👉 **[View Admin Interface](https://rum-river-wedding-barn-shadcn-o9obet71b-ryan-pedersons-projects.vercel.app/admin)**
 
 ## 📝 CMS Integration
 
@@ -175,8 +175,8 @@ const v0Url = `https://v0.dev/chat/api/open?url=https%3A%2F%2Fregistry-starter.v
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ryanpedersonphotography/shadcn-ui-registry-starter.git
-   cd shadcn-ui-registry-starter
+   git clone https://github.com/ryanpedersonphotography/rum-river-wedding-barn-shadcn.git
+   cd rum-river-wedding-barn-shadcn
    ```
 
 2. **Install dependencies**
